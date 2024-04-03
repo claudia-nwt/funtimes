@@ -6,6 +6,3 @@ y=2
 
 x+y
 
-#yet that isn't the truth
-
-z=(x+y)
